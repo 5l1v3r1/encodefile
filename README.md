@@ -6,7 +6,7 @@ This tool is only available when the source code is important.
 
 pkg install git <br>
 pkg install python2 <br>
-git clone https://github.com/artjaygeneralao/encodefile.git <br>
+git clone https://github.com/MrKaitoX/encodefile.git <br>
 cd encodefile <br>
 python2 encodefile.py <br>
 <br>
